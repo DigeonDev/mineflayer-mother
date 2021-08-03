@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 const mother = require('./mineflayer-mother.js').mother;
 
 const bot = mineflayer.createBot({
-	host: "localhost",
+	host: "pvpbot.mcnetwork.me",
 	username: "ClutchMachine",
 });
 
